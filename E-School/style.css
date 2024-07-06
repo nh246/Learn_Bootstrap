@@ -1,11 +1,36 @@
 /* Navigation section  */
 
-.header{
-    background-color: #F0FFF0;
-    width: 100%;
-    height: 576px;
+.header {
+  background-color: #f0fff0;
+  width: 100%;
+  height: 576px;
 }
-.container{
+.container {
+}
+.navbar {
+  padding-top: 30px;
+}
 
-    border: 2px solid red;
+.logo img {
+  width: 198px;
+  height: 59px;
+  top: 30px;
+  left: 212px;
+}
+
+.page-link{
+    font-weight: 400;
+    font-size: 20px;
+}
+.btn{
+    background-color: #21B573;
+    color: white;
+    border: none;
+    border-radius: 33px;
+    padding: 10px 25px 10px 25px;
+    cursor: pointer;
+}
+
+.navbar-nav{
+    gap: 5px;
 }
