@@ -74,3 +74,35 @@
   width: 66px;
   height: 85px;
 }
+
+/* courses section  */
+
+.courses{
+  margin: 40px auto;
+}
+
+.cards-h{
+  margin-top: 40px;
+}
+.card{
+  border-radius: 18px;
+}
+.card-footer-items{
+  display: flex;
+}
+
+.card-img-top{
+  padding: 15px 15px;
+}
+
+.card-foot{
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 10px;
+}
+
+.card-footer-img{
+  width: 24px;
+  height: 24px;
+  
+}
