@@ -60,7 +60,6 @@
 }
 
 .topic-col {
-  border: 1px solid red;
   background-color: #f8fffb;
   margin: 15px;
   padding: 40px 20px;
@@ -68,7 +67,7 @@
 }
 .topic-col:hover{
  background-color:#FFFFFF;
- 
+ box-shadow: 0px 5px 20px 2px rgb(54, 53, 53);
 }
 
 .topic-img {
